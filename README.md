@@ -49,7 +49,7 @@ for i in range(n):
 
 s.close()
 ## OUTPUT
-<img width="1918" height="1079" alt="Screenshot 2026-05-15 092949" src="https://github.com/user-attachments/assets/ed7ccb0d-998a-4cf1-b0da-abe7db83f731" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/385c382a-b1f2-4005-bd56-0fb00da6439f" />
 
 
 ## RESULT
